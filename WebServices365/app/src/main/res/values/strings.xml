@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebServices365</string>
+    <string name="longin_web_services">Hola</string>
+    <string name="senati_eti">SENATI ETI</string>
+    <string name="codigo_de_alumno">Correo Institucional</string>
+    <string name="bienvenido">Bienvenido</string>
+</resources>
